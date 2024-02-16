@@ -1,0 +1,2 @@
+1. 手指向右划（swipe right）表示accept，手指向左划（swipe left）表示reject。
+2. 手机上的主导航条（Primary Navigation）应该放在屏幕最下端，接近手指的地方。通常包含2~5个最重要的环节。过多了不便于手指点中选择。
