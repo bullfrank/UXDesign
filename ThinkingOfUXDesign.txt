@@ -20,4 +20,18 @@ UX设计关键思考点：
     1）尽量减少选项。因为随着选择数量和复杂性的增加，做出决定的时间会随之增加。把任务分成更小的步骤是减轻认知负担的好方法。
     2）把最重要的放在最前面或者最后面
     3）用一致的导航标签并且高亮当前标签
-         
+8. 用户行为的三个关键因素
+    1）用户在最初50毫秒内形成对App的第一印象。
+    2）用户使用快速思考的方式来使用App。
+    3）用户花在浏览上的时间比使用的时间更多
+9. 美观的UI设计会让用户容忍一部分使用上的不方便。
+10. 设计一款产品要从一下几个方面来考虑：
+      1）颜色 Color
+      2）字体排版 Typograhy
+      3）图解 Iconography
+      4）形状 Shape
+      5）模式 Pattern
+      6）网格布局 Grid Layout
+      7）动画 Animation
+11. 列出一个App需要解决的问题，然后画出对应的Journey Map（换句话说，就是用户使用App来解决这个问题的整个流程） -- 可以在网上搜索Journey Map来血虚如何使用它。
+12. Apple提供了Human Interface Guideline来指导如何进行UI design：developer.apple.com/design/human-interface-guideline/ios/overview
