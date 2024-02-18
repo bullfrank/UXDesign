@@ -35,3 +35,5 @@ UX设计关键思考点：
       7）动画 Animation
 11. 列出一个App需要解决的问题，然后画出对应的Journey Map（换句话说，就是用户使用App来解决这个问题的整个流程） -- 可以在网上搜索Journey Map来血虚如何使用它。
 12. Apple提供了Human Interface Guideline来指导如何进行UI design：developer.apple.com/design/human-interface-guideline/ios/overview
+13. 通过使用让用户建立对这个产品的信任，这会增加用户对这个产品的黏性。所以设计一个产品时，提供一套user flow，让用户按照我们提供的路径（pathway）来使用产品。这样会让
+    用户确切的知道自己每一步所做的事情，这会让他们对完成任务更有信心，这样就会增加对产品的信任感。
