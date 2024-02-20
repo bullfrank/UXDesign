@@ -37,3 +37,4 @@ UX设计关键思考点：
 12. Apple提供了Human Interface Guideline来指导如何进行UI design：developer.apple.com/design/human-interface-guideline/ios/overview
 13. 通过使用让用户建立对这个产品的信任，这会增加用户对这个产品的黏性。所以设计一个产品时，提供一套user flow，让用户按照我们提供的路径（pathway）来使用产品。这样会让
     用户确切的知道自己每一步所做的事情，这会让他们对完成任务更有信心，这样就会增加对产品的信任感。
+14. 一个产品或者品牌要通过产品的外观，表述的语言风格表现出背后开发团队的个性，这样才能吸引与产品团队或者品牌同类型的用户的青睐。
